@@ -16,6 +16,12 @@ namespace jc21;
  */
 class CliTableCustomManipulators extends CliTableManipulator
 {
+    /**
+     * Convert this data into a json string
+     *
+     * @param array $data
+     * @return string
+     */
     public function jsonify(array $data): string
     {
         return json_encode($data, JSON_PRETTY_PRINT);
