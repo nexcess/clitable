@@ -1,5 +1,5 @@
 {
-    "name": "jc21/clitable",
+    "name": "nexcess/jc21-clitable",
     "description": "CLI Table output for PHP scripts",
     "keywords": ["cli", "table", "command", "line"],
     "homepage": "https://github.com/jc21/clitable",
